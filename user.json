@@ -1,0 +1,14 @@
+{
+    "user": [
+        {"email": "diana@gmail.com", "password": "diana123"},
+        {"email": "alex@gmail.com", "password": "alex123"},
+        {"email": "aida@gmail.com", "password": "aida123"},
+        {"email": "ben@gmail.com", "password": "ben123"},
+        {"email": "saida@gmail.com", "password": "saida123"},
+        {"email": "john@gmail.com", "password": "john123"},
+        {"email": "jane@gmail.com", "password": "jane123"},
+        {"email": "belle@gmail.com", "password": "belle123"},
+        {"email": "rose@gmail.com", "password": "rose123"},
+        {"email": "dave@gmail.com", "password": "dave123"}
+    ]
+} 
